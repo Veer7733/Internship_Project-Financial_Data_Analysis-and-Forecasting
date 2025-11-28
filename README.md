@@ -17,6 +17,11 @@ This project focuses on analyzing financial datasets and building forecasting mo
 
 ---
 
+## Dashboard Preview
+![Dashboard Preview](https://github.com/Veer7733/Internship_Project-Financial_Data_Analysis-and-Forecasting/blob/main/Dashboard/Stock%20Analysis%20and%20Forecasting%20Dashboard_Preview.png)
+
+---
+
 ## Tools & Technologies
 
 | Category | Tools Used |
